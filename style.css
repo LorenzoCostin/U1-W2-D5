@@ -1,0 +1,159 @@
+body {
+  max-width: 1920px;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+header {
+  display: block;
+  background-color: rgb(34, 47, 63);
+  margin-top: 0;
+  height: 160px;
+}
+.b2 {
+  display: block;
+  background-color: rgb(54, 71, 89);
+  color: white;
+  margin-top: 0;
+  height: 75px;
+  font-size: 30px;
+}
+.u1 {
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+li {
+  display: inline-block;
+  margin-left: 10px;
+}
+.i1 {
+  padding-left: 65px;
+}
+main {
+  margin-inline: 100px;
+}
+.d2 {
+  display: block;
+  background-color: #f56600;
+  text-align: center;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 60px;
+  font-size: 30px;
+}
+.p1 {
+  padding-top: 15px;
+}
+.d3 {
+  background-image: url(assets/bg-image.png);
+  height: 300px;
+  background-size: contain;
+  text-align: center;
+
+  color: white;
+}
+.p2 {
+  padding-top: 90px;
+  margin-bottom: 30px;
+  font-size: 50px;
+  font-weight: bolder;
+}
+.p3 {
+  padding-bottom: 60px;
+  margin-top: 0px;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.di1 {
+  margin-bottom: 100px;
+}
+.di2 {
+  background-color: white;
+}
+.s1 {
+  color: #45929b;
+}
+.p4 {
+  padding-left: 30px;
+  font-size: 40px;
+  font-weight: bold;
+}
+.immag {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px;
+  height: 550px;
+}
+.immag img {
+  width: 20%;
+  min-width: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  border-radius: 50px;
+  text-shadow: 20px 20px grey;
+}
+.d5 {
+  height: 600px;
+  background-image: url(assets/img_9.png);
+  margin-top: 50px;
+}
+.p5 {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+.s2 {
+  color: #45929b;
+}
+.d6 {
+  height: 600px;
+  background-image: url(assets/img_10.png);
+  margin-top: 50px;
+}
+.p6 {
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+.s3 {
+  color: #45929b;
+}
+.d7 {
+  background-color: #364759;
+  height: 90px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.d7 span {
+  color: white;
+  font-size: 30px;
+}
+
+.d8 {
+  background-color: #222f3f;
+  text-align: center;
+  height: 280px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  width: 25%;
+}
+.p7 {
+  font-size: 30px;
+  border: 0px;
+  padding: 25px 0;
+}
